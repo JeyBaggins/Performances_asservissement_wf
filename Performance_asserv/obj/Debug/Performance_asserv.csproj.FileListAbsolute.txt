@@ -1,0 +1,10 @@
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\bin\Debug\Performance_asserv.exe.config
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\bin\Debug\Performance_asserv.exe
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\bin\Debug\Performance_asserv.pdb
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\obj\Debug\Performance_asserv.csprojAssemblyReference.cache
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\obj\Debug\WindowsFormsApp1.Quadratic.resources
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\obj\Debug\Performance_asserv.Properties.Resources.resources
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\obj\Debug\Performance_asserv.csproj.GenerateResource.cache
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\obj\Debug\Performance_asserv.csproj.CoreCompileInputs.cache
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\obj\Debug\Performance_asserv.exe
+C:\Users\jeyjo\source\repos\Performance_asserv\Performance_asserv\obj\Debug\Performance_asserv.pdb
